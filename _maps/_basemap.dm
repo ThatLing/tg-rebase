@@ -1,4 +1,4 @@
-//#define LOWMEMORYMODE //uncomment this to load centcom and runtime station and thats it.
+#define LOWMEMORYMODE //uncomment this to load centcom and runtime station and thats it.
 
 #include "yogstation\map_files\generic\CentCom.dmm" //all yogstation maps are in the _maps/yogstation folder
 
